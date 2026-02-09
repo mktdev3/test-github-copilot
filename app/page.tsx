@@ -8,7 +8,7 @@ export default function Home() {
       </header>
 
       {/* Main Content */}
-      <main className="flex items-center justify-center pt-20">
+      <main className="flex items-center justify-center h-[calc(100vh-64px)]">
         <h1 className="text-4xl font-bold text-white drop-shadow-lg">
           ようこそ、Test Page
         </h1>
